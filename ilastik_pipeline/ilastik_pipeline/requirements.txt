@@ -1,7 +1,0 @@
-h5py
-numpy
-opencv-python
-pandas
-matplotlib
-Pillow
-openpyxl
